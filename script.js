@@ -99,7 +99,7 @@ var pic14= document.querySelector(".pic14")
 var pic15= document.querySelector(".pic15")
 var img= document.querySelector(".work-image img")
 pic1.addEventListener("mouseenter",()=>{
-    img.src = "https://parade.com/.image/t_share/MjA1NTMyNzQzNjY3Mjk2MTU2/2024-vanity-fair-oscar-party-hosted-by-radhika-jones---arrivals.jpg"
+    img.src = "https://nkeirukamedani.com/wp-content/uploads/2020/04/14-1200x1870.jpeg"
 })
 pic1.addEventListener("click",()=>{
     img.src = "https://parade.com/.image/t_share/MjA1NTMyNzQzNjY3Mjk2MTU2/2024-vanity-fair-oscar-party-hosted-by-radhika-jones---arrivals.jpg"
@@ -108,45 +108,45 @@ pic2.addEventListener("mouseenter",()=>{
     img.src = "https://parade.com/.image/t_share/MjA1NTMyNzQzNjY3Mjk2MTU2/2024-vanity-fair-oscar-party-hosted-by-radhika-jones---arrivals.jpg"
 })
 pic3.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.49_7b56828e.jpg"
+    img.src = "https://i.pinimg.com/736x/41/1c/e5/411ce5835476f6e64fcf4457f7eb73be.jpg"
 })
 pic4.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.04.49_53af1cef.jpg"
+    img.src = "https://parade.com/.image/t_share/MjA1NTMyNzQzNjY3Mjk2MTU2/2024-vanity-fair-oscar-party-hosted-by-radhika-jones---arrivals.jpg"
 })
 
 pic5.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.48_77a5340d.jpg"
+    img.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvXGuDiMfpdF6j-ek2wyk5kK7WvDjqICTe8w&s"
 })
 pic6.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.48_fb2596fc.jpg"
+    img.src = "https://bhartitaneja.com/wp-content/uploads/2023/02/How-to-do-Smokey-Eyes-%E2%80%93-Smokey-Eyes-made-simple.jpg"
 })
 pic7.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.49_7b56828e.jpg"
+    img.src = "https://i.ebayimg.com/images/g/Z1oAAOSwFGNWSFRP/s-l400.jpg"
 })
 pic8.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.04.49_53af1cef.jpg"
+    img.src = "https://sumansalon.in/wp-content/uploads/2024/03/626200c4-9adc-41ce-b064-fda94af3bafd.jpg"
 })
 pic9.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.48_77a5340d.jpg"
+    img.src = "https://t3.ftcdn.net/jpg/02/05/54/74/360_F_205547400_Fqcr79yE9IBU7H1INXd7rBTBtBe5k4Wp.jpg"
 })
 // pic10.addEventListener("mouseenter",()=>{
 //     img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.48_fb2596fc.jpg"
 // })
 pic11.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.49_7b56828e.jpg"
+    img.src = "https://media.istockphoto.com/id/516282921/photo/beauty-concept-skin-aging-anti-aging-procedures-rejuvenation-lifting.jpg?s=612x612&w=0&k=20&c=ANXQQ_FsajFltCpH5Rw9WTcyfkoCbrUhRUJ2olooWgU="
 })
 pic12.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.04.49_53af1cef.jpg"
+    img.src = "https://img.freepik.com/free-photo/female-model-wedding-bridal-makeup_114579-9312.jpg?semt=ais_hybrid&w=740"
 })
 
 pic13.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.48_77a5340d.jpg"
+    img.src = "https://s3-us-west-2.amazonaws.com/shaadiwishnewbucket/90b7d708-dda8-abe4-c590-6f8faa502e6a.jpg"
 })
 pic14.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.48_fb2596fc.jpg"
+    img.src = "https://dr.savee-cdn.com/image-fallbacks/original/6/5/3693d0e0cf4041f5c2b682.jpg"
 })
 pic15.addEventListener("mouseenter",()=>{
-    img.src = "./asset/WhatsApp Image 2024-01-30 at 18.05.49_7b56828e.jpg"
+    img.src = "https://t4.ftcdn.net/jpg/02/44/16/37/360_F_244163733_ErNyvrHfOJcRlHd7t3doQcs4bEgclAfq.jpg"
 })
 
 
